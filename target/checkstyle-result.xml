@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/hash/classes/frfall/cis1200/hw09_local_temp/src/main/java/org/cis1200/snakes/panels/EntryPanel.java">
+</file>
+<file name="/home/hash/classes/frfall/cis1200/hw09_local_temp/src/main/java/org/cis1200/snakes/panels/GamePanel.java">
+<error line="16" column="19" severity="warning" message="Variable &apos;scoreLabel&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+</checkstyle>
