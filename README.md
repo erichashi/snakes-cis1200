@@ -2,7 +2,7 @@
 ## The classic Snakes game on Java
 CIS 1200 Final Project
 
-Implemented using the Java.
+Implemented using Java.
 
 ![demo img](demo.png)
 
